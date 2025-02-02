@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.venv/
+
+# Backup/temporary files
+pages 09-56-32-434/
+
+# Documentation
+cv.md
+
+# Existing entries
+.vercel
+mj/

@@ -1,0 +1,42 @@
+{
+  "name": "occdoc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/d3": "^7.4.3",
+    "@vercel/blob": "^0.27.1",
+    "cmdk": "^0.2.0",
+    "d3": "^7.9.0",
+    "dotenv": "^16.4.7",
+    "flowbite-react": "^0.10.2",
+    "framer-motion": "^12.0.5",
+    "lucide-react": "^0.300.0",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.4.0",
+    "recharts": "^2.15.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "^10.4.16",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.0",
+    "typescript": "latest"
+  }
+}
